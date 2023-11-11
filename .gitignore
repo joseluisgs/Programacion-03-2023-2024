@@ -1,0 +1,9 @@
+*.pptx
+.DS_Store
+/Extras/Informe-Eficiencia.xlsx
+/Ejercicios/*.docx
+upload.sh
+UD03.pdf
+Soluciones/2021-2022
+Soluciones/2022-2023
+Ejemplos/2022-2023
